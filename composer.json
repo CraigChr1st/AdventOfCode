@@ -6,5 +6,9 @@
   "config": {
     "bin-dir": "bin/"
   },
-  "autoload": {"psr-0": {"": "/var/www/src"}}
+  "autoload": {
+    "psr-0": {
+      "": "/home/craig/AdventOfCode/src"
+    }
+  }
 }
