@@ -1,6 +1,5 @@
 <?php
 
-use DayThree\SantasJourney;
 use DayTwelve\JSONCalculator;
 
 require_once(__DIR__ . '/../../vendor/autoload.php');

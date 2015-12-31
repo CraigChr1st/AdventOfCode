@@ -4,7 +4,251 @@
     <bookmark url="file://$PROJECT_DIR$/src/DaySix/ChristmasLights.php" line="36" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6128f6b4-3711-4880-a4fe-183e39a17f2d" name="Default" comment="" />
+    <list default="true" id="6128f6b4-3711-4880-a4fe-183e39a17f2d" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/symfony/process/Tests/AbstractProcessTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/symfony/process/Tests/ProcessInSigchildEnvironment.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/symfony/process/Tests/SigchildDisabledProcessTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/symfony/process/Tests/SigchildEnabledProcessTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/symfony/process/Tests/SimpleProcessTest.php" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/behat" afterPath="$PROJECT_DIR$/bin/behat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/phpspec" afterPath="$PROJECT_DIR$/bin/phpspec" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.json" afterPath="$PROJECT_DIR$/composer.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.lock" afterPath="$PROJECT_DIR$/composer.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/DayTwelve/runDayTwelve.php" afterPath="$PROJECT_DIR$/run/DayTwelve/runDayTwelve.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/autoload.php" afterPath="$PROJECT_DIR$/vendor/autoload.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/bin/behat" afterPath="$PROJECT_DIR$/vendor/behat/behat/bin/behat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/bin/behat.bat" afterPath="$PROJECT_DIR$/vendor/behat/behat/bin/behat.bat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/bin/release" afterPath="$PROJECT_DIR$/vendor/behat/behat/bin/release" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/LICENSE" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/Transliterator.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/Transliterator.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x01.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x01.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x02.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x02.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x03.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x03.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x04.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x04.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x05.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x05.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x06.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x06.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x07.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x07.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x09.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x09.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x0a.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x0a.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x0b.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x0b.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x0c.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x0c.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x0d.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x0d.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x0e.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x0e.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x0f.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x0f.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x10.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x10.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x11.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x11.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x12.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x12.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x13.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x13.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x14.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x14.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x15.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x15.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x16.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x16.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x17.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x17.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x18.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x18.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x1e.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x1e.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x1f.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x1f.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x20.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x20.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x21.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x21.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x22.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x22.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x23.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x23.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x24.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x24.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x25.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x25.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x26.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x26.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x27.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x27.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x28.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x28.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x2e.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x2e.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x2f.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x2f.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x30.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x30.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x31.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x31.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x32.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x32.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x33.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x33.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x4d.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x4d.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x4e.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x4e.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x4f.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x4f.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x50.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x50.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x51.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x51.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x52.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x52.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x53.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x53.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x54.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x54.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x55.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x55.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x56.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x56.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x57.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x57.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x58.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x58.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x59.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x59.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x5a.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x5a.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x5b.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x5b.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x5c.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x5c.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x5d.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x5d.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x5e.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x5e.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x5f.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x5f.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x60.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x60.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x61.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x61.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x62.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x62.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x63.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x63.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x64.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x64.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x65.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x65.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x66.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x66.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x67.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x67.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x68.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x68.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x69.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x69.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x6a.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x6a.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x6b.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x6b.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x6c.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x6c.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x6d.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x6d.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x6e.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x6e.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x6f.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x6f.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x70.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x70.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x71.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x71.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x72.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x72.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x73.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x73.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x74.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x74.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x75.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x75.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x76.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x76.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x77.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x77.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x78.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x78.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x79.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x79.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x7a.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x7a.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x7b.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x7b.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x7c.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x7c.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x7d.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x7d.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x7e.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x7e.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x7f.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x7f.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x80.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x80.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x81.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x81.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x82.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x82.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x83.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x83.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x84.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x84.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x85.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x85.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x86.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x86.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x87.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x87.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x88.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x88.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x89.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x89.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x8a.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x8a.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x8b.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x8b.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x8c.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x8c.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x8d.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x8d.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x8e.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x8e.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x8f.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x8f.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x90.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x90.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x91.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x91.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x92.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x92.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x93.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x93.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x94.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x94.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x95.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x95.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x96.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x96.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x97.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x97.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x98.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x98.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x99.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x99.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x9a.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x9a.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x9b.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x9b.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x9c.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x9c.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x9d.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x9d.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x9e.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x9e.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x9f.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/x9f.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/xa0.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/xa0.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/xa1.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/xa1.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/xa2.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/xa2.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/xa3.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/xa3.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/xa4.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/xa4.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/xac.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/xac.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/xad.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/xad.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/xae.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/xae.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/xaf.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/xaf.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/xb0.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/xb0.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/xb1.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/xb1.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/xb2.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/xb2.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/xb3.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/xb3.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/xb4.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/xb4.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/xb5.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/xb5.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/xb6.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/xb6.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/xb7.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/xb7.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/xb8.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/xb8.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/xb9.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/xb9.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/xba.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/xba.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/xbb.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/xbb.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/xbc.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/xbc.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/xbd.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/xbd.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/xbe.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/xbe.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/xbf.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/xbf.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/xc0.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/xc0.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/xc1.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/xc1.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/xc2.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/xc2.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/xc3.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/xc3.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/xc4.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/xc4.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/xc5.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/xc5.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/xc6.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/xc6.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/xc7.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/xc7.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/xc8.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/xc8.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/xc9.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/xc9.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/xca.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/xca.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/xcb.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/xcb.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/xcc.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/xcc.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/xcd.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/xcd.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/xce.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/xce.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/xcf.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/xcf.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/xd0.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/xd0.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/xd1.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/xd1.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/xd2.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/xd2.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/xd3.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/xd3.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/xd4.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/xd4.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/xd5.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/xd5.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/xd6.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/xd6.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/xd7.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/xd7.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/xf9.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/xf9.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/xfa.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/xfa.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/xfb.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/xfb.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/xfc.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/xfc.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/xfd.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/xfd.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/xfe.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/xfe.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/xff.php" afterPath="$PROJECT_DIR$/vendor/behat/behat/src/Behat/Behat/Util/data/xff.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/gherkin/bin/release" afterPath="$PROJECT_DIR$/vendor/behat/gherkin/bin/release" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/behat/gherkin/bin/update_i18n" afterPath="$PROJECT_DIR$/vendor/behat/gherkin/bin/update_i18n" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/composer/ClassLoader.php" afterPath="$PROJECT_DIR$/vendor/composer/ClassLoader.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/composer/autoload_files.php" afterPath="$PROJECT_DIR$/vendor/composer/autoload_files.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/composer/autoload_namespaces.php" afterPath="$PROJECT_DIR$/vendor/composer/autoload_namespaces.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/composer/autoload_real.php" afterPath="$PROJECT_DIR$/vendor/composer/autoload_real.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/composer/installed.json" afterPath="$PROJECT_DIR$/vendor/composer/installed.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/doctrine/instantiator/.travis.install.sh" afterPath="$PROJECT_DIR$/vendor/doctrine/instantiator/.travis.install.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/phpspec/phpspec/bin/phpspec" afterPath="$PROJECT_DIR$/vendor/phpspec/phpspec/bin/phpspec" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/config/Definition/ArrayNode.php" afterPath="$PROJECT_DIR$/vendor/symfony/config/Definition/ArrayNode.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/config/Tests/Definition/ArrayNodeTest.php" afterPath="$PROJECT_DIR$/vendor/symfony/config/Tests/Definition/ArrayNodeTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/console/Application.php" afterPath="$PROJECT_DIR$/vendor/symfony/console/Application.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/console/Helper/ProgressBar.php" afterPath="$PROJECT_DIR$/vendor/symfony/console/Helper/ProgressBar.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/console/Helper/SymfonyQuestionHelper.php" afterPath="$PROJECT_DIR$/vendor/symfony/console/Helper/SymfonyQuestionHelper.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/console/Helper/Table.php" afterPath="$PROJECT_DIR$/vendor/symfony/console/Helper/Table.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/console/Tests/Fixtures/application_renderexception1.txt" afterPath="$PROJECT_DIR$/vendor/symfony/console/Tests/Fixtures/application_renderexception1.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/console/Tests/Fixtures/application_renderexception2.txt" afterPath="$PROJECT_DIR$/vendor/symfony/console/Tests/Fixtures/application_renderexception2.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/console/Tests/Fixtures/application_renderexception3.txt" afterPath="$PROJECT_DIR$/vendor/symfony/console/Tests/Fixtures/application_renderexception3.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/console/Tests/Fixtures/application_renderexception3decorated.txt" afterPath="$PROJECT_DIR$/vendor/symfony/console/Tests/Fixtures/application_renderexception3decorated.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/console/Tests/Fixtures/application_renderexception4.txt" afterPath="$PROJECT_DIR$/vendor/symfony/console/Tests/Fixtures/application_renderexception4.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/console/Tests/Fixtures/application_renderexception_doublewidth1.txt" afterPath="$PROJECT_DIR$/vendor/symfony/console/Tests/Fixtures/application_renderexception_doublewidth1.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/console/Tests/Fixtures/application_renderexception_doublewidth1decorated.txt" afterPath="$PROJECT_DIR$/vendor/symfony/console/Tests/Fixtures/application_renderexception_doublewidth1decorated.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/console/Tests/Fixtures/application_renderexception_doublewidth2.txt" afterPath="$PROJECT_DIR$/vendor/symfony/console/Tests/Fixtures/application_renderexception_doublewidth2.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/console/Tests/Helper/ProgressBarTest.php" afterPath="$PROJECT_DIR$/vendor/symfony/console/Tests/Helper/ProgressBarTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/console/Tests/Helper/TableTest.php" afterPath="$PROJECT_DIR$/vendor/symfony/console/Tests/Helper/TableTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/console/Tests/Input/StringInputTest.php" afterPath="$PROJECT_DIR$/vendor/symfony/console/Tests/Input/StringInputTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/dependency-injection/Compiler/ReplaceAliasByActualDefinitionPass.php" afterPath="$PROJECT_DIR$/vendor/symfony/dependency-injection/Compiler/ReplaceAliasByActualDefinitionPass.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/dependency-injection/Compiler/ResolveDefinitionTemplatesPass.php" afterPath="$PROJECT_DIR$/vendor/symfony/dependency-injection/Compiler/ResolveDefinitionTemplatesPass.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/dependency-injection/Dumper/PhpDumper.php" afterPath="$PROJECT_DIR$/vendor/symfony/dependency-injection/Dumper/PhpDumper.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/dependency-injection/Extension/ExtensionInterface.php" afterPath="$PROJECT_DIR$/vendor/symfony/dependency-injection/Extension/ExtensionInterface.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/dependency-injection/Tests/Compiler/ResolveDefinitionTemplatesPassTest.php" afterPath="$PROJECT_DIR$/vendor/symfony/dependency-injection/Tests/Compiler/ResolveDefinitionTemplatesPassTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/dependency-injection/Tests/Dumper/PhpDumperTest.php" afterPath="$PROJECT_DIR$/vendor/symfony/dependency-injection/Tests/Dumper/PhpDumperTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/filesystem/Filesystem.php" afterPath="$PROJECT_DIR$/vendor/symfony/filesystem/Filesystem.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/filesystem/Tests/FilesystemTest.php" afterPath="$PROJECT_DIR$/vendor/symfony/filesystem/Tests/FilesystemTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/finder/Iterator/SortableIterator.php" afterPath="$PROJECT_DIR$/vendor/symfony/finder/Iterator/SortableIterator.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/finder/Tests/GlobTest.php" afterPath="$PROJECT_DIR$/vendor/symfony/finder/Tests/GlobTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring/composer.json" afterPath="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring/composer.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/process/PhpProcess.php" afterPath="$PROJECT_DIR$/vendor/symfony/process/PhpProcess.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/process/Process.php" afterPath="$PROJECT_DIR$/vendor/symfony/process/Process.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/process/Tests/NonStopableProcess.php" afterPath="$PROJECT_DIR$/vendor/symfony/process/Tests/NonStopableProcess.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/process/Tests/PhpProcessTest.php" afterPath="$PROJECT_DIR$/vendor/symfony/process/Tests/PhpProcessTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/process/Tests/SignalListener.php" afterPath="$PROJECT_DIR$/vendor/symfony/process/Tests/SignalListener.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/translation/Tests/PluralizationRulesTest.php" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Tests/PluralizationRulesTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/yaml/Inline.php" afterPath="$PROJECT_DIR$/vendor/symfony/yaml/Inline.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/yaml/Parser.php" afterPath="$PROJECT_DIR$/vendor/symfony/yaml/Parser.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/yaml/Tests/ParserTest.php" afterPath="$PROJECT_DIR$/vendor/symfony/yaml/Tests/ParserTest.php" />
+    </list>
     <ignored path="AdventOfCode.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -24,34 +268,44 @@
     <favorites_list name="AdventOfCode" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="JSONCalculatorSpec.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spec/DayTwelve/JSONCalculatorSpec.php">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="SeatingArrangementsSpec.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spec/DayThirteen/SeatingArrangementsSpec.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-26.692308">
-              <caret line="58" column="65" selection-start-line="58" selection-start-column="65" selection-end-line="58" selection-end-column="65" />
+            <state vertical-scroll-proportion="-12.461538">
+              <caret line="19" column="76" selection-start-line="19" selection-start-column="76" selection-end-line="19" selection-end-column="77" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="runDayTwelve.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/run/DayTwelve/runDayTwelve.php">
+      <file leaf-file-name="SeatingArrangements.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/DayThirteen/SeatingArrangements.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.230769">
-              <caret line="9" column="44" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
+            <state vertical-scroll-proportion="0.55932206">
+              <caret line="25" column="105" selection-start-line="25" selection-start-column="105" selection-end-line="25" selection-end-column="105" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="runDayThirteen.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/run/DayThirteen/runDayThirteen.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-17.0">
+              <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
               <folding>
-                <element signature="e#7#34#0#PHP" expanded="true" />
+                <element signature="e#7#29#0#PHP" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="JSONCalculator.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/DayTwelve/JSONCalculator.php">
+      <file leaf-file-name="composer.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/composer.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4955157">
-              <caret line="30" column="26" selection-start-line="30" selection-start-column="26" selection-end-line="30" selection-end-column="26" />
+            <state vertical-scroll-proportion="-6.923077">
+              <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -103,6 +357,10 @@
         <option value="$PROJECT_DIR$/spec/DayTwelve/JSONCalculatorSpec.php" />
         <option value="$PROJECT_DIR$/resources/DayTwelve/input.txt" />
         <option value="$PROJECT_DIR$/src/DayTwelve/JSONCalculator.php" />
+        <option value="$PROJECT_DIR$/composer.json" />
+        <option value="$PROJECT_DIR$/spec/DayThirteen/SeatingArrangementsSpec.php" />
+        <option value="$PROJECT_DIR$/run/DayThirteen/runDayThirteen.php" />
+        <option value="$PROJECT_DIR$/src/DayThirteen/SeatingArrangements.php" />
       </list>
     </option>
   </component>
@@ -146,7 +404,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -175,38 +432,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AdventOfCode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AdventOfCode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DayTwelve" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AdventOfCode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AdventOfCode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="run" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -225,7 +450,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="DayTwelve" />
+              <option name="myItemId" value="DayThirteen" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -243,7 +468,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="DayThree" />
+              <option name="myItemId" value="DayTen" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -258,30 +483,13 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AdventOfCode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AdventOfCode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DayTwelve" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -382,35 +590,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/run/DaySix/runDaySix.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DaySix/ChristmasLights.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/DaySix/input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/run/DaySix/runDaySix.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/DaySix/ChristmasLights.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -508,13 +687,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.14141414">
           <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/composer.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -678,7 +850,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-7.6153846">
           <caret line="11" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -686,7 +857,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.1412556">
           <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -694,7 +864,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.42376682">
           <caret line="22" column="38" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -702,7 +871,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.7780269">
           <caret line="41" column="32" selection-start-line="41" selection-start-column="32" selection-end-line="41" selection-end-column="32" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -710,7 +878,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.20179372">
           <caret line="10" column="41" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="70" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -718,32 +885,76 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.3939394">
           <caret line="0" column="21198" selection-start-line="0" selection-start-column="21198" selection-end-line="0" selection-end-column="21198" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/run/DayTwelve/runDayTwelve.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.230769">
-          <caret line="9" column="44" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
-          <folding>
-            <element signature="e#7#34#0#PHP" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spec/DayTwelve/JSONCalculatorSpec.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-26.692308">
+        <state vertical-scroll-proportion="0.78699553">
           <caret line="58" column="65" selection-start-line="58" selection-start-column="65" selection-end-line="58" selection-end-column="65" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run/DayTwelve/runDayTwelve.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.040358745">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/DayTwelve/JSONCalculator.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4955157">
-          <caret line="30" column="26" selection-start-line="30" selection-start-column="26" selection-end-line="30" selection-end-column="26" />
+        <state vertical-scroll-proportion="0.68609864">
+          <caret line="34" column="9" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/autoload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.923077">
+          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run/DayTen/runDayTen.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.040358745">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="12" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/DayThirteen/SeatingArrangementsSpec.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.461538">
+          <caret line="19" column="76" selection-start-line="19" selection-start-column="76" selection-end-line="19" selection-end-column="77" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run/DayThirteen/runDayThirteen.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-17.0">
+          <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+          <folding>
+            <element signature="e#7#29#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DayThirteen/SeatingArrangements.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.55932206">
+          <caret line="25" column="105" selection-start-line="25" selection-start-column="105" selection-end-line="25" selection-end-column="105" />
           <folding />
         </state>
       </provider>

@@ -12,5 +12,5 @@ return array(
     'Diff' => array($vendorDir . '/phpspec/php-diff/lib'),
     'Behat\\Gherkin' => array($vendorDir . '/behat/gherkin/src'),
     'Behat\\Behat' => array($vendorDir . '/behat/behat/src'),
-    '' => array($baseDir . '/src'),
+    '' => array('/var/www/src'),
 );
